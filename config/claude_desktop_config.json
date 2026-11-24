@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "lucid": {
+      "command": "node",
+      "args": ["C:\lucid\lucid-mcp-bridge.mjs"],
+      "env": {
+        "LUCID_MCP_KEY": "lk_YOUR_KEY",
+        "LUCID_MCP_URL": "https://mcp.159.195.252.107.nip.io/mcp"
+      }
+    }
+  }
+}
